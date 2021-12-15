@@ -1,0 +1,12 @@
+button {
+    width: 50px;
+    height: 50px;
+    font-size: 16px;
+}
+
+#console {
+    width: 210px;
+    height: 40px;
+    font-size: 16px;
+    text-align: right;
+}
